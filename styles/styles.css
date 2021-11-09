@@ -63,6 +63,7 @@ section.top-page {
     font-weight: 100;
     width: 50%;
     position: center;
+
 }
 
 /*Scroll*/
@@ -119,12 +120,13 @@ nav.nav li a {
 
 .content{
     background: #F7F9FB;
-    margin-top: 15%;
+    padding-top: 250px;
 
 }
 
 .pre-content{
-    margin-top: 50%;
+    /*margin-top: 50%;*/
+    padding-top: 850px;
     background: #F7F9FB;
 }
 /*Title Home */
@@ -132,7 +134,7 @@ nav.nav li a {
 .title-home{
     color: #5085A5;
     font-size: 50px;
-    margin-top: 70px;
+    padding-top: 70px;
     text-align: center;
     font-family: 'Abril FatFace', cursive;
 
