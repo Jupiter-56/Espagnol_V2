@@ -114,19 +114,20 @@ nav.nav {
 }
 
 nav.nav li a {
+
     color: white;
     text-decoration: none;
 }
 
-.content{
+.content {
     background: #F7F9FB;
-    padding-top: 250px;
+    margin-top: 8rem;
 
 }
 
-.pre-content{
+.pre-content > * + *{
     /*margin-top: 50%;*/
-    padding-top: 850px;
+    margin-top: 4rem;
     background: #F7F9FB;
 }
 /*Title Home */
@@ -134,7 +135,7 @@ nav.nav li a {
 .title-home{
     color: #5085A5;
     font-size: 50px;
-    padding-top: 70px;
+    margin-top: 50rem;
     text-align: center;
     font-family: 'Abril FatFace', cursive;
 
